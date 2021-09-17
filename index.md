@@ -9,7 +9,7 @@
 
 ---
 [Tunable Resonance Actuators for Magnetic Resonance Elastography](http://example.com/)
-<img src="images/StiffImages.png?raw=true"/>
+<img src="images/StiffImage.PNG?raw=true"/>
 
 ---
 
