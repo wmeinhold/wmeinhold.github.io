@@ -8,15 +8,14 @@
 <img src="images/Robot.png?raw=true"/>
 
 ---
-[Smart Tendon Hammer for Neuromodulation](/pdf/sample_presentation.pdf)
-<img src="images/Robot.png?raw=true"/>
-
----
 [Tunable Resonance Actuators for Magnetic Resonance Elastography](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/StiffImages.png?raw=true"/>
 
 ---
 
+[Smart Tendon Hammer for Neuromodulation](/pdf/sample_presentation.pdf)
+<img src="images/Classification App Gif.GIF?raw=true"/>
+---
 ### Category Name 2
 
 - [Microscale Mechanical Property Imaging](http://example.com/)
