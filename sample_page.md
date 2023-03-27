@@ -1,31 +1,13 @@
-## This can be your internal website page / project page
+## AutoSPINe - Automated Spinal Precision Injection Robot
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Recent developments in the field of cellular therapeutics have indicated the potential of stem cell injections directly to the spinal cord. Injections require either open surgery or a Magnetic Resonance Imaging (MRI) guided injection. Needle positioning during MRI imaging is a significant hurdle to direct spinal injection, as the small target region and interlaminar space require high positioning accuracy.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+Objective: To improve both the procedure time and positioning accuracy, an MRI guided robotic needle positioning system is developed.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Methods: The robot uses linear piezoelectric motors to directly drive a parallel plane positioning mechanism. Feedback is provided through MRI during the orientation procedure. Both accuracy and repeatability of the robot are characterized. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Results: This system is found to be capable of repeatability below 51 μm. Needle endpoint error is limited by imaging modality, but is validated to 156 μm. Conclusion: The reported robot and MRI image feedback system is capable of repeatable and accurate needle guide positioning. 
 
-### 2. Assess assumptions on which statistical inference will be based
+Significance: This high accuracy will result in a significant improvement to the workflow of spinal injection procedures.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
