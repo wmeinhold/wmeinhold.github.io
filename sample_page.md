@@ -10,4 +10,6 @@ Results: This system is found to be capable of repeatability below 51 μm. Needl
 
 Significance: This high accuracy will result in a significant improvement to the workflow of spinal injection procedures.
 
+[GT News Release](https://research.gatech.edu/robotically-precise-diagnostics-and-therapeutics-degenerative-disc-disorder)
+
 
