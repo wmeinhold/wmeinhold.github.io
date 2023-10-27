@@ -12,7 +12,7 @@
 <img src="images/Robot.png?raw=true"/>
 
 ---
-[Tunable Resonance Actuators for Magnetic Resonance Elastography](http://example.com/)
+[Tunable Resonance Actuators for Magnetic Resonance Elastography](pdf/Towards_Image_Guided_Magnetic_Resonance_Elastography_via_Active_Driver_Positioning_Robot.pdf)
 <img src="images/StiffImage.PNG?raw=true"/>
 
 ---
