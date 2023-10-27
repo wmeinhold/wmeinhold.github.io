@@ -1,3 +1,5 @@
+[Resume].(pdf/Resume_Waiman_Meinhold.pdf)
+[CV].(pdf/Resume_Waiman_Meinhold.pdf)
 ## Portfolio
 
 ---
