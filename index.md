@@ -1,10 +1,3 @@
-[Resume](pdf/Resume_Waiman_Meinhold.pdf)
-<br><br>
-[CV](pdf/Resume_Waiman_Meinhold.pdf)
-<br><br>
-
-
----
 
 ### Selected Projects 
 
@@ -27,7 +20,7 @@
 
 
 ---
-
+### Personal Projects
 
 
 
