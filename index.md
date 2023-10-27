@@ -2,11 +2,11 @@
 <br><br>
 [CV](pdf/Resume_Waiman_Meinhold.pdf)
 <br><br>
-## Portfolio
+
 
 ---
 
-### PhD Research Projects 
+### Selected Projects 
 
 [MRI Guided Precise Interventional Robot](/sample_page)
 <img src="images/Robot.png?raw=true"/>
