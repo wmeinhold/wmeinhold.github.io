@@ -16,6 +16,8 @@
 ---
 
  [Microscale Mechanical Property Imaging](http://example.com/)
+ <a href="/MRE"><img src="images/StiffImage.PNG?raw=true"></a>
+ 
 [Semi-Passive Exoskleton Actuators](http://example.com/)
 
 
