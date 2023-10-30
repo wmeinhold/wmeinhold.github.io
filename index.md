@@ -1,5 +1,5 @@
 
-### Selected Projects 
+ 
 
 [MRI Guided Precise Interventional Robot](/sample_page)
 <img src="images/Robot.png?raw=true"/>
