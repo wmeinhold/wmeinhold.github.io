@@ -14,10 +14,9 @@
 [Smart Tendon Hammer for Neuromodulation](https://research.gatech.edu/if-i-had-hammer-simple-tool-enable-remote-neurological-examinations)
 <img src="images/Classification App Gif.GIF?raw=true"/>
 ---
-### Other Projects
 
-- [Microscale Mechanical Property Imaging](http://example.com/)
-- [Semi-Passive Exoskleton Actuators](http://example.com/)
+ [Microscale Mechanical Property Imaging](http://example.com/)
+[Semi-Passive Exoskleton Actuators](http://example.com/)
 
 
 ---
