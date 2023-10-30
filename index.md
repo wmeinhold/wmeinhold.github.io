@@ -7,7 +7,7 @@
 ---
 [Tunable Resonance Actuators for Magnetic Resonance Elastography](/MRE)
 
-<img src="images/StiffImage.PNG?raw=true"/>
+<a href="/MRE"><img src="images/StiffImage.PNG?raw=true"></a>
 
 ---
 
