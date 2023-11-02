@@ -5,13 +5,13 @@
 <a href="/AUTOSPINE"><img src="images/Robot.png?raw=true"/></a>
 
 ---
-[Tunable Resonance Actuators for Magnetic Resonance Elastography](/MRE)
+[Tunable Resonance Actuators for Magnetic Resonance Elastography](/MRE.md)
 
 <a href="/MRE"><img src="images/StiffImage.PNG?raw=true"></a>
 
 ---
 
-[Smart Tendon Hammer for Neuromodulation](/TTAP)
+[Smart Tendon Hammer for Neuromodulation](/TTAP.md)
 <img src="images/Classification App Gif.GIF?raw=true"/>
 ---
 
