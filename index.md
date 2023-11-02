@@ -11,7 +11,7 @@
 
 ---
 
-[Smart Tendon Hammer for Neuromodulation](https://research.gatech.edu/if-i-had-hammer-simple-tool-enable-remote-neurological-examinations)
+[Smart Tendon Hammer for Neuromodulation](/TTAP)
 <img src="images/Classification App Gif.GIF?raw=true"/>
 ---
 
