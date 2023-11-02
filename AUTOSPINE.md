@@ -1,6 +1,6 @@
 ## AutoSPINe - Automated Spinal Precision Injection Robot
 
-**Project description:** Recent developments in the field of cellular therapeutics have indicated the potential of stem cell injections directly to the spinal cord. Injections require either open surgery or a Magnetic Resonance Imaging (MRI) guided injection. Needle positioning during MRI imaging is a significant hurdle to direct spinal injection, as the small target region and interlaminar space require high positioning accuracy.
+Recent developments in the field of cellular therapeutics have indicated the potential of stem cell injections directly to the spinal cord. Injections require either open surgery or a Magnetic Resonance Imaging (MRI) guided injection. Needle positioning during MRI imaging is a significant hurdle to direct spinal injection, as the small target region and interlaminar space require high positioning accuracy.
 
 Objective: To improve both the procedure time and positioning accuracy, an MRI guided robotic needle positioning system is developed.
 
