@@ -1,7 +1,7 @@
 
  
 
-[MRI Guided Precise Interventional Robot](/sample_page)
+[MRI Guided Precise Interventional Robot](/AUTOSPINE)
 <img src="images/Robot.png?raw=true"/>
 
 ---
