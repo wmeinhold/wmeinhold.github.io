@@ -2,7 +2,7 @@
  
 
 [MRI Guided Precise Interventional Robot](/AUTOSPINE)
-<img src="images/Robot.png?raw=true"/>
+<a href="/AUTOSPINE"><img src="images/Robot.png?raw=true"/></a>
 
 ---
 [Tunable Resonance Actuators for Magnetic Resonance Elastography](/MRE)
