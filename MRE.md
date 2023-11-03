@@ -10,6 +10,6 @@ Results: This system is found to be capable of repeatability below 51 μm. Needl
 
 Significance: This high accuracy will result in a significant improvement to the workflow of spinal injection procedures.
 
-[TBME paper on MRE driver positioning]((pdf/Towards_Image_Guided_Magnetic_Resonance_Elastography_via_Active_Driver_Positioning_Robot.pdf))
+  <a href="pdf/Towards_Image_Guided_Magnetic_Resonance_Elastography_via_Active_Driver_Positioning_Robot.pdf">TBME paper on MRE driver positioning</a> 
 
 
