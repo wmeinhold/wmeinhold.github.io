@@ -12,4 +12,7 @@ Significance: This high accuracy will result in a significant improvement to the
 
   <a href="pdf/Towards_Image_Guided_Magnetic_Resonance_Elastography_via_Active_Driver_Positioning_Robot.pdf">TBME paper on MRE driver positioning</a> 
 
+  <hr><hr>
+  <a href="pdf/MRE_TUNE.pdf">DMD Paper on the initial actuator concept</a> 
+
 
