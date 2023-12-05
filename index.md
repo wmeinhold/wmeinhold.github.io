@@ -15,10 +15,10 @@
 <img src="images/Classification App Gif.GIF?raw=true"/>
 ---
 
- [Microscale Mechanical Property Imaging](http://example.com/)
+ [Microscale Mechanical Property Imaging](https://scholar.google.com/citations?user=c3EGN8IAAAAJ&hl=en)
  <a href="/MRE"><img src="images/AMFM.png"></a>
- 
-[Semi-Passive Exoskleton Actuators](http://example.com/)
+ ---
+[Semi-Passive Exoskleton Actuators](https://scholar.google.com/citations?user=c3EGN8IAAAAJ&hl=en)
 
 
 ---
