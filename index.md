@@ -19,7 +19,8 @@
  <a href="https://scholar.google.com/citations?user=c3EGN8IAAAAJ&hl=en"><img src="images/AMFM.png"></a>
 
  <hr>
-.[Semi-Passive Exoskleton Actuators]_(https://scholar.google.com/citations?user=c3EGN8IAAAAJ&hl=en).
+ 
+ [Semi-Passive Exoskeleton Actuators](https://scholar.google.com/citations?user=c3EGN8IAAAAJ&hl=en)
 <a href="https://scholar.google.com/citations?user=c3EGN8IAAAAJ&hl=en"><img src="images/APEX proto.JPG"></a>
 
 ---
