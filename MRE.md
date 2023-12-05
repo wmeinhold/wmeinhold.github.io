@@ -1,14 +1,8 @@
 ## Magnetic Resonance Elastography
 
-**Project description:** Recent developments in the field of cellular therapeutics have indicated the potential of stem cell injections directly to the spinal cord. Injections require either open surgery or a Magnetic Resonance Imaging (MRI) guided injection. Needle positioning during MRI imaging is a significant hurdle to direct spinal injection, as the small target region and interlaminar space require high positioning accuracy.
+**Project description:**  The advent of new MRI imaging techniques necessitates the development of precise actuators for tissue interrogation. The development of magnetic resonance elastography (MRE) enabled clinicians to diagnose and track the progression of liver fibrosis via MRI mitigating the need for invasive biopsy procedures. Although the ability to non-invasively image tissue properties produced a paradigm shift in liver disease treatment, adaptation of the technique to other diseases was stymied by the lack of available actuation modalities. Significant advancements in the design of MRE actuators are necessary to both improve efficacy and enable use in stiffer target tissues, such as the intervetebral discs. Additionally, current MRE drivers are statically positioned, and the development of a system for active driver positioning is of particular benefit to higher frequency applications.  
 
-Objective: To improve both the procedure time and positioning accuracy, an MRI guided robotic needle positioning system is developed.
-
-Methods: The robot uses linear piezoelectric motors to directly drive a parallel plane positioning mechanism. Feedback is provided through MRI during the orientation procedure. Both accuracy and repeatability of the robot are characterized. 
-
-Results: This system is found to be capable of repeatability below 51 μm. Needle endpoint error is limited by imaging modality, but is validated to 156 μm. Conclusion: The reported robot and MRI image feedback system is capable of repeatable and accurate needle guide positioning. 
-
-Significance: This high accuracy will result in a significant improvement to the workflow of spinal injection procedures.
+This work focused on the development of high frequency, tunable resonance, actuators for Magnetic Resonance Elastography. Piezoelectric shell actuators were designed around a target frequency range, along with a 5 DOF positioing system. 
 
   <a href="pdf/Towards_Image_Guided_Magnetic_Resonance_Elastography_via_Active_Driver_Positioning_Robot.pdf">TBME paper on MRE driver positioning</a> 
 
