@@ -1,11 +1,11 @@
 
  
 
-[MRI Guided Precise Interventional Robot](/AUTOSPINE.md)
+### MRI Guided Precise Interventional Robot
 <a href="/AUTOSPINE"><img src="images/Robot.png?raw=true"/></a>
 
 ---
-[Tunable Resonance Actuators for Magnetic Resonance Elastography](/MRE.md)
+### Tunable Resonance Actuators for Magnetic Resonance Elastography
 
 <a href="/MRE"><img src="images/StiffImage.PNG?raw=true"></a>
 
