@@ -4,9 +4,10 @@
 
 This work focused on the development of high frequency, tunable resonance, actuators for Magnetic Resonance Elastography. Piezoelectric shell actuators were designed around a target frequency range, along with a 5 DOF positioing system. 
 
+  <hr>
   <a href="pdf/Towards_Image_Guided_Magnetic_Resonance_Elastography_via_Active_Driver_Positioning_Robot.pdf">TBME paper on MRE driver positioning</a> 
 
-  <hr><hr>
+
   <a href="pdf/MRE_TUNE.pdf">DMD Paper on the initial actuator concept</a> 
 
 
