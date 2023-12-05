@@ -2,17 +2,17 @@
  
 
 ### MRI Guided Precise Interventional Robot
-<a href="/AUTOSPINE.md"><img src="images/Robot.png?raw=true"/></a>
+<a href="/AUTOSPINE"><img src="images/Robot.png?raw=true"/></a>
 
 ---
 ### Tunable Resonance Actuators for Magnetic Resonance Elastography
 
-<a href="/MRE.md"><img src="images/StiffImage.PNG?raw=true"></a>
+<a href="/MRE"><img src="images/StiffImage.PNG?raw=true"></a>
 
 ---
 
 ### Smart Tendon Hammer for Neuromodulation
-<a href="/TTAP.md"><img src="images/Classification App Gif.GIF?raw=true"/>
+<a href="/TTAP"><img src="images/Classification App Gif.GIF?raw=true"/>
 <hr>
 
  ### Microscale Mechanical Property Imaging
@@ -26,7 +26,7 @@
 ---
 ### Personal Projects
 
-<a href="Personal.md"><img src="images/Handle mount.JPG"/>
+<a href="Personal"><img src="images/Handle mount.JPG"/>
 
 
 
