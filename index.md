@@ -16,10 +16,11 @@
 
 <hr>
 
- ### Microscale Mechanical Property Imaging
- <a href="https://scholar.google.com/citations?user=c3EGN8IAAAAJ&hl=en"><img src="images/AMFM.png"></a>
+### Microscale Mechanical Property Imaging
+<a href="https://scholar.google.com/citations?user=c3EGN8IAAAAJ&hl=en"><img src="images/AMFM.png"></a>
 
- <hr>
+<hr>
+
  
 ### Semi-Passive Exoskeleton Actuators
 <a href="https://scholar.google.com/citations?user=c3EGN8IAAAAJ&hl=en"><img src="images/APEX proto.JPG"></a>
