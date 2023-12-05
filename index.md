@@ -16,11 +16,11 @@
 ---
 
  [Microscale Mechanical Property Imaging](https://scholar.google.com/citations?user=c3EGN8IAAAAJ&hl=en)
- <a href="/MRE"><img src="images/AMFM.png"></a>
+ <a href="https://scholar.google.com/citations?user=c3EGN8IAAAAJ&hl=en"><img src="images/AMFM.png"></a>
 
  <hr>
-[Semi-Passive Exoskleton Actuators](https://scholar.google.com/citations?user=c3EGN8IAAAAJ&hl=en)
-
+.[Semi-Passive Exoskleton Actuators](https://scholar.google.com/citations?user=c3EGN8IAAAAJ&hl=en)
+<a href="https://scholar.google.com/citations?user=c3EGN8IAAAAJ&hl=en"><img src="images/APEX proto.JPG"></a>
 
 ---
 ### Personal Projects
