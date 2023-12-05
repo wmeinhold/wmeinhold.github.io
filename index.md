@@ -26,7 +26,7 @@
 ---
 ### Personal Projects
 
-<a href="/Personal"><img src="images/Handle mount.JPG"/>
+<a href="Personal.md"><img src="images/Handle mount.JPG"/>
 
 
 
